@@ -1,0 +1,48 @@
+.body {
+		background-color: cadetblue;
+}
+.h1{
+		color: black;
+}
+.p {
+		color: #25368;
+}
+body {
+  background-image: url('image/image2.png');}
+.topnav {
+overflow: visible ;
+background-color: aquamarine;
+}
+
+.topnav a {
+  float: left;
+  color: #creamwhite;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 12px;
+}
+.topnav a:hover {
+  background-color: #dustpink;
+  color: aquamarine;
+		
+}
+
+.topnav a.active {
+  background-color: #04AA6D;
+  color: white;
+}
+.topnav .icon {
+  display: none;}
+
+@media screen and (max-width: 600px) {
+  .topnav a:not(:first-child) {display: botton;}
+  .topnav a.icon {
+    float: right;
+    display: block;
+  		display: vertcally;
+  }
+
+		.contacts {
+				display: <display-box>;
+		}

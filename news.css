@@ -1,0 +1,19 @@
+body {
+		background-color: yellowgreen;
+		font-family: San sarif;
+		font-size: 15px;
+}
+.body {
+		background-color: cadetblue;
+}
+.h1{
+		color: black;
+}
+.p {
+		color: #25368;
+}
+body {
+  background-image: url('image/image2.png');
+		.img src{
+				shape-image-threshold: 5x;
+		}

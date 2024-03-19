@@ -1,0 +1,19 @@
+body {
+		background-color: cadetblue;
+}
+body h1{
+		color: black;
+		text-align: center;
+		text-shadow: blueviolet;
+		text-decoration: saddlebrown;
+		text-underline-position: below;
+}
+p {
+		color: black;
+		
+		
+}
+body {
+  background-image: url('image/image2.png');
+		
+
